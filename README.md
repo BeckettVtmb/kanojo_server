@@ -1,6 +1,6 @@
-# Kanojo server
+# Kanojo server (FreeBSD fork)
 
-Barcode kanojo server.
+Barcode kanojo server for FreeBSD.
 
 ## Setup
 
